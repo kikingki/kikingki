@@ -21,6 +21,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kikingki&show_icons=true&theme=buefy)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=evol1531)](https://solved.ac/evol1531/)
+
 **ᴄᴏɴᴛᴀᴄᴛ**
 mongbu54@gmail.com
 
